@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\qrnma\\source\\repos\\App1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A48868B-0FC6-48D6-B8D3-C804D3BAC175}|App1\\App1.csproj|c:\\users\\qrnma\\source\\repos\\app1\\app1\\data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A48868B-0FC6-48D6-B8D3-C804D3BAC175}|App1\\App1.csproj|solutionrelative:app1\\data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A48868B-0FC6-48D6-B8D3-C804D3BAC175}|App1\\App1.csproj|c:\\users\\qrnma\\source\\repos\\app1\\app1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A48868B-0FC6-48D6-B8D3-C804D3BAC175}|App1\\App1.csproj|solutionrelative:app1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A48868B-0FC6-48D6-B8D3-C804D3BAC175}|App1\\App1.csproj|c:\\users\\qrnma\\source\\repos\\app1\\app1\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A48868B-0FC6-48D6-B8D3-C804D3BAC175}|App1\\App1.csproj|solutionrelative:app1\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A48868B-0FC6-48D6-B8D3-C804D3BAC175}|App1\\App1.csproj|c:\\users\\qrnma\\source\\repos\\app1\\app1\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A48868B-0FC6-48D6-B8D3-C804D3BAC175}|App1\\App1.csproj|solutionrelative:app1\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A48868B-0FC6-48D6-B8D3-C804D3BAC175}|App1\\App1.csproj|c:\\users\\qrnma\\source\\repos\\app1\\app1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A48868B-0FC6-48D6-B8D3-C804D3BAC175}|App1\\App1.csproj|solutionrelative:app1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A48868B-0FC6-48D6-B8D3-C804D3BAC175}|App1\\App1.csproj|c:\\users\\qrnma\\source\\repos\\app1\\app1\\repositories\\genrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A48868B-0FC6-48D6-B8D3-C804D3BAC175}|App1\\App1.csproj|solutionrelative:app1\\repositories\\genrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A48868B-0FC6-48D6-B8D3-C804D3BAC175}|App1\\App1.csproj|c:\\users\\qrnma\\source\\repos\\app1\\app1\\models\\dtos\\checkoutmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A48868B-0FC6-48D6-B8D3-C804D3BAC175}|App1\\App1.csproj|solutionrelative:app1\\models\\dtos\\checkoutmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A48868B-0FC6-48D6-B8D3-C804D3BAC175}|App1\\App1.csproj|c:\\users\\qrnma\\source\\repos\\app1\\app1\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A48868B-0FC6-48D6-B8D3-C804D3BAC175}|App1\\App1.csproj|solutionrelative:app1\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A48868B-0FC6-48D6-B8D3-C804D3BAC175}|App1\\App1.csproj|c:\\users\\qrnma\\source\\repos\\app1\\app1\\repositories\\ihomerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A48868B-0FC6-48D6-B8D3-C804D3BAC175}|App1\\App1.csproj|solutionrelative:app1\\repositories\\ihomerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A48868B-0FC6-48D6-B8D3-C804D3BAC175}|App1\\App1.csproj|c:\\users\\qrnma\\source\\repos\\app1\\app1\\models\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A48868B-0FC6-48D6-B8D3-C804D3BAC175}|App1\\App1.csproj|solutionrelative:app1\\models\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DbSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\qrnma\\source\\repos\\App1\\App1\\Data\\DbSeeder.cs",
+              "RelativeDocumentMoniker": "App1\\Data\\DbSeeder.cs",
+              "ToolTip": "C:\\Users\\qrnma\\source\\repos\\App1\\App1\\Data\\DbSeeder.cs",
+              "RelativeToolTip": "App1\\Data\\DbSeeder.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwBMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T00:58:26.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\qrnma\\source\\repos\\App1\\App1\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "App1\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\qrnma\\source\\repos\\App1\\App1\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "App1\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T00:58:14.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\qrnma\\source\\repos\\App1\\App1\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "App1\\Repositories\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\qrnma\\source\\repos\\App1\\App1\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "App1\\Repositories\\BookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T08:59:15.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CheckoutModel.cs",
+              "DocumentMoniker": "C:\\Users\\qrnma\\source\\repos\\App1\\App1\\Models\\DTOs\\CheckoutModel.cs",
+              "RelativeDocumentMoniker": "App1\\Models\\DTOs\\CheckoutModel.cs",
+              "ToolTip": "C:\\Users\\qrnma\\source\\repos\\App1\\App1\\Models\\DTOs\\CheckoutModel.cs",
+              "RelativeToolTip": "App1\\Models\\DTOs\\CheckoutModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T08:53:56.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\qrnma\\source\\repos\\App1\\App1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "App1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\qrnma\\source\\repos\\App1\\App1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "App1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAA+wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T08:50:44.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GenreRepository.cs",
+              "DocumentMoniker": "C:\\Users\\qrnma\\source\\repos\\App1\\App1\\Repositories\\GenreRepository.cs",
+              "RelativeDocumentMoniker": "App1\\Repositories\\GenreRepository.cs",
+              "ToolTip": "C:\\Users\\qrnma\\source\\repos\\App1\\App1\\Repositories\\GenreRepository.cs",
+              "RelativeToolTip": "App1\\Repositories\\GenreRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T08:50:23.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IHomeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\qrnma\\source\\repos\\App1\\App1\\Repositories\\IHomeRepository.cs",
+              "RelativeDocumentMoniker": "App1\\Repositories\\IHomeRepository.cs",
+              "ToolTip": "C:\\Users\\qrnma\\source\\repos\\App1\\App1\\Repositories\\IHomeRepository.cs",
+              "RelativeToolTip": "App1\\Repositories\\IHomeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T08:49:58.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookDTO.cs",
+              "DocumentMoniker": "C:\\Users\\qrnma\\source\\repos\\App1\\App1\\Models\\DTOs\\BookDTO.cs",
+              "RelativeDocumentMoniker": "App1\\Models\\DTOs\\BookDTO.cs",
+              "ToolTip": "C:\\Users\\qrnma\\source\\repos\\App1\\App1\\Models\\DTOs\\BookDTO.cs",
+              "RelativeToolTip": "App1\\Models\\DTOs\\BookDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T08:49:38.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Checkout.cshtml",
+              "DocumentMoniker": "C:\\Users\\qrnma\\source\\repos\\App1\\App1\\Views\\Cart\\Checkout.cshtml",
+              "RelativeDocumentMoniker": "App1\\Views\\Cart\\Checkout.cshtml",
+              "ToolTip": "C:\\Users\\qrnma\\source\\repos\\App1\\App1\\Views\\Cart\\Checkout.cshtml",
+              "RelativeToolTip": "App1\\Views\\Cart\\Checkout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-20T08:46:18.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\qrnma\\source\\repos\\App1\\App1\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "App1\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\qrnma\\source\\repos\\App1\\App1\\Controllers\\CartController.cs",
+              "RelativeToolTip": "App1\\Controllers\\CartController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAADwvy4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T08:45:12.158Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
